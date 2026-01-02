@@ -23,3 +23,7 @@ Bu proje, Unity ile hypercasual oyun geliştirme becerilerimi geliştirmek ve po
 
 ## Geliştirici
 Ayça Sonay Yıldırım
+
+## WEBGL olarak derlenmiş oyun linki 
+Bu linkten oyunu oynayabilirsiniz.
+https://aycasonayy.github.io/Stack-Ball-3D/
